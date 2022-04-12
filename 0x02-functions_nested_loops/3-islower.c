@@ -1,6 +1,4 @@
 #include "main.h"
-#include "holberton.h"
-
 /**
  * _islower - a function that checks for lowercase character
  * @c: single letter input
