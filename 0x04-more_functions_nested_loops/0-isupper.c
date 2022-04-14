@@ -5,6 +5,8 @@
 */
 int _isupper(int c)
 {
+	char c;
+
 	for (c = 'A'; c <= 'Z'; c++)
 	{
 		return (1);
